@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//rumecollins.github.io/real-estate/static/css/main.575e1fb3.css",
+    "main.js": "//rumecollins.github.io/real-estate/static/js/main.bf8eb84b.js",
+    "index.html": "//rumecollins.github.io/real-estate/index.html",
+    "main.575e1fb3.css.map": "//rumecollins.github.io/real-estate/static/css/main.575e1fb3.css.map",
+    "main.bf8eb84b.js.map": "//rumecollins.github.io/real-estate/static/js/main.bf8eb84b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575e1fb3.css",
+    "static/js/main.bf8eb84b.js"
+  ]
+}
