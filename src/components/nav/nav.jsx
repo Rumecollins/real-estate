@@ -1,5 +1,5 @@
 import React from 'react';
-import "../components/nav.css"
+import "../components/nav/nav.css"
 
 export default function Nav(props) {
     const [active, setActive] = React.useState(false)    
